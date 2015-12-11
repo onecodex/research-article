@@ -113,7 +113,8 @@ figure th {
 }
 
 .author a:hover {
-  color: blue;
+  color: #05347B;
+  font-weight: 400;
   text-decoration: none;
 }
 
