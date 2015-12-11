@@ -1,3 +1,3 @@
 # research-article
 
-See the [component page](https://peerj.github.io/research-article) for more information.
+See the [component page](https://refgenomics.github.io/research-article) for more information.
