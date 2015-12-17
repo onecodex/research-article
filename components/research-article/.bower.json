@@ -1,0 +1,35 @@
+{
+  "name": "research-article",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "research-article.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.6",
+    "bootstrap": "~3.3.4",
+    "webcomponentsjs": "~0.6.1",
+    "orcid-profile": "peerj/orcid-profile",
+    "version-history": "peerj/version-history",
+    "article-contents": "refgenomics/article-contents",
+    "article-entities": "peerj/article-entities",
+    "article-tools": "refgenomics/article-tools",
+    "article-reference": "peerj/article-reference",
+    "article-metrics": "peerj/article-metrics"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.2.3"
+  },
+  "homepage": "https://github.com/refgenomics/research-article",
+  "_release": "bc92bb3211",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "bc92bb3211d66d7a9ba36d90c458f54221c5df11"
+  },
+  "_source": "git://github.com/refgenomics/research-article.git",
+  "_target": "master",
+  "_originalSource": "refgenomics/research-article",
+  "_direct": true
+}

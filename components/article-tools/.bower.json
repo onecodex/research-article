@@ -1,0 +1,23 @@
+{
+  "name": "article-tools",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "article-tools.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4",
+    "core-icon": "Polymer/core-icon#~0.5.5"
+  },
+  "homepage": "https://github.com/refgenomics/article-tools",
+  "_release": "97e7f6301c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "97e7f6301c5cd3cac0d983a7149f83375ef3a54a"
+  },
+  "_source": "git://github.com/refgenomics/article-tools.git",
+  "_target": "*",
+  "_originalSource": "refgenomics/article-tools"
+}

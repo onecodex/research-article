@@ -1,0 +1,22 @@
+{
+  "name": "article-contents",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "article-contents.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4"
+  },
+  "homepage": "https://github.com/refgenomics/article-contents",
+  "_release": "298e81d395",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "298e81d395eb48da7d34eab3b52e2f1c19034075"
+  },
+  "_source": "git://github.com/refgenomics/article-contents.git",
+  "_target": "*",
+  "_originalSource": "refgenomics/article-contents"
+}
