@@ -13,9 +13,9 @@
     "webcomponentsjs": "~0.6.1",
     "orcid-profile": "peerj/orcid-profile",
     "version-history": "peerj/version-history",
-    "article-contents": "refgenomics/article-contents",
+    "article-contents": "onecodex/article-contents",
     "article-entities": "peerj/article-entities",
-    "article-tools": "refgenomics/article-tools",
+    "article-tools": "onecodex/article-tools",
     "article-reference": "peerj/article-reference",
     "article-metrics": "peerj/article-metrics"
   },
